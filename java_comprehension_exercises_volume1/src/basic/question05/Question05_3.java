@@ -26,21 +26,27 @@ public class Question05_3 {
 
 		case "火曜日":
 			System.out.println("Tueseday");
+			break;
 
 		case "水曜日":
 			System.out.println("Wednesday");
+			break;
 
 		case "木曜日":
 			System.out.println("Thursday");
+			break;
 
 		case "金曜日":
 			System.out.println("Friday");
+			break;
 
 		case "土曜日":
 			System.out.println("Saturday");
+			break;
 
 		case "日曜日":
 			System.out.println("Sunday");
+			break;
 		}
 
 	}
